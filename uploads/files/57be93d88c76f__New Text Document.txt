@@ -1,0 +1,9 @@
+mylaowai
+laowai:china,j2
+
+
+
+http://180.210.190.230:8228/httpapi/sendsms?userId=&password=&smsText=Testonly&commaSeperatedReceiverN umbers=01XXXXXXXXX,01XXXXXXXX
+
+
+http://180.210.190.230:8228/httpapi/sendsms?userId=munsait&password=456321&smsText=Testonly&commaSeperatedReceiverNumbers=01953919563

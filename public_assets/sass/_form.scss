@@ -1,0 +1,42 @@
+label {
+	color: #444 !important;
+	font-size: 16px !important;
+}
+.reg-title {
+	margin-bottom: 48px;
+	font-size: 30px;
+}
+.reg-form-1 {
+	transition: box-shadow .4s;
+	fieldset {
+		margin-bottom: 24px;
+	}
+	legend {
+		font-size: 20px;
+		margin-bottom: 0;
+	}
+
+	&:hover {
+		box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19);
+	}
+}
+
+#purpose {
+	border: 1px solid #ddd;
+	padding: 10px;
+}
+
+.reg-form-step-2-form-2 {
+	hr {
+		margin: 0;
+	}
+	
+	legend {
+		margin:0;
+		padding:0
+	}
+	.form-group {
+		margin: 0;
+		padding: 3px 0;
+	}
+}

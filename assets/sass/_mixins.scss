@@ -1,0 +1,19 @@
+//-----------------------------------------
+// Border Radius
+//-----------------------------------------
+
+@mixin border-rad($top, $right, $bottom, $left) {
+	-webkit-border-radius: $top $right $bottom $left;
+	border-radius: $top $right $bottom $left;
+}
+
+//-----------------------------------------
+// Transition
+//----------------------------------------- 
+@mixin transition($property, $duration, $function) {
+	-webkit-transition: $property $duration $function;
+	-moz-transition: $property $duration $function;
+	-ms-transition: $property $duration $function;
+	-o-transition: $property $duration $function;
+	transition: $property $duration $function;
+}

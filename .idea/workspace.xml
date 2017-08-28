@@ -1,0 +1,1058 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff51c730-9e0a-4344-adff-562bec10ee3a" name="Default" comment="" />
+    <ignored path="ors.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="ors" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="doc.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/modules/doc/controllers/doc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="271" column="53" selection-start-line="271" selection-start-column="53" selection-end-line="271" selection-end-column="53" />
+              <folding>
+                <element signature="n#report#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#upz_block#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#leader_info#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#chng_upz_status#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#chngLoginStatus#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#get_complain_info#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#somitee_list_detail#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#get_all_admin_info#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#check_nid#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#check_somitee#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#somitee_list_by_div#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#all_notice#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#insert_notice#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#update_notice_status#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#view_notice_detail#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#update_notice_detail#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#encryptIt#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#decryptIt#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#register_employee#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#employee_registration_form#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#edit_admin#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#employee_registration_form_post#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#employee_list#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#get_admin_info#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#view_employee#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#change_password#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#employee_designation_change#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#employee_transfer#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#change_designation#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#somitee_list#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#view_somitee#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#get_dist#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#get_upz#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#sms_api#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#sms_api_change#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#sms_buy#0;n#Doc#0;n#!!top" expanded="false" />
+                <element signature="n#sms_api_add#0;n#Doc#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="doc_model.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/doc/models/doc_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5214">
+              <caret line="273" column="0" selection-start-line="273" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
+              <folding>
+                <marker date="1503854998405" expanded="true" signature="947:1079" placeholder="select count... somitee_info" />
+                <marker date="1503854998405" expanded="true" signature="1242:1368" placeholder="select count... somitee_info" />
+                <marker date="1503854998405" expanded="true" signature="1530:1678" placeholder="select count... somitee_info" />
+                <marker date="1503854998405" expanded="true" signature="1826:1941" placeholder="select * fro... user_registration" />
+                <marker date="1503854998405" expanded="true" signature="1877:1931" placeholder="select user_... somitee_info" />
+                <marker date="1503854998405" expanded="true" signature="2079:2131" placeholder="select * fro... admin_registration" />
+                <marker date="1503854998405" expanded="true" signature="2831:3423" placeholder="SELECT count... somitee_info" />
+                <marker date="1503854998405" expanded="true" signature="4282:4678" placeholder="SELECT count... somitee_info" />
+                <marker date="1503854998405" expanded="true" signature="4835:5253" placeholder="SELECT count... somitee_info" />
+                <marker date="1503854998405" expanded="true" signature="5408:5611" placeholder="select * fro... admin_registration" />
+                <marker date="1503854998405" expanded="true" signature="7869:7990" placeholder="select * fro... user_registration" />
+                <marker date="1503854998405" expanded="true" signature="7920:7974" placeholder="select user_... somitee_info" />
+                <marker date="1503854998405" expanded="true" signature="22347:23039" placeholder="select * fro... admin_registration" />
+                <marker date="1503854998405" expanded="true" signature="24159:24283" placeholder="SELECT * FRO... admin_registration" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="M_pdf.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/libraries/M_pdf.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/modules/home/views/index.php" />
+        <option value="$PROJECT_DIR$/../passport/application/controllers/Admin.php" />
+        <option value="$PROJECT_DIR$/application/models/basic_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/dco/views/index.php" />
+        <option value="$PROJECT_DIR$/application/modules/uco/views/index.php" />
+        <option value="$PROJECT_DIR$/application/modules/somitee/views/somitee_registration.php" />
+        <option value="$PROJECT_DIR$/application/modules/home/models/home_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/uco/views/all_somitee_list.php" />
+        <option value="$PROJECT_DIR$/application/modules/dco/views/all_somitee_view.php" />
+        <option value="$PROJECT_DIR$/application/modules/dco/views/see_somitee_detail_view.php" />
+        <option value="$PROJECT_DIR$/application/modules/somitee/controllers/somitee.php" />
+        <option value="$PROJECT_DIR$/application/modules/doc/models/doc_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/dco/views/see_somitee_detail_view_2.php" />
+        <option value="$PROJECT_DIR$/application/modules/uco/models/uco_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/uco/views/somitee_list_details_view2.php" />
+        <option value="$PROJECT_DIR$/application/modules/uco/views/somitee_list_details_view.php" />
+        <option value="$PROJECT_DIR$/application/modules/doc/views/somitee_list_detail_view_2.php" />
+        <option value="$PROJECT_DIR$/application/modules/doc/views/somitee_list_detail_view.php" />
+        <option value="$PROJECT_DIR$/application/modules/login_admin/views/login.php" />
+        <option value="$PROJECT_DIR$/application/modules/doc/views/certification.php" />
+        <option value="$PROJECT_DIR$/application/modules/dco/views/certification.php" />
+        <option value="$PROJECT_DIR$/application/modules/doc/views/dco_download_user_info2.php" />
+        <option value="$PROJECT_DIR$/application/modules/uco/controllers/uco.php" />
+        <option value="$PROJECT_DIR$/application/modules/dco/controllers/dco.php" />
+        <option value="$PROJECT_DIR$/application/views/layouts_uco_dco/secondary-nav.php" />
+        <option value="$PROJECT_DIR$/application/modules/home/views/show_certificate.php" />
+        <option value="$PROJECT_DIR$/application/modules/dco/models/dco_model.php" />
+        <option value="C:/git/rakib-chowdhury.github.io/index.html" />
+        <option value="$PROJECT_DIR$/application/views/layouts/secondary-nav.php" />
+        <option value="$PROJECT_DIR$/application/modules/doc/views/index.php" />
+        <option value="$PROJECT_DIR$/application/modules/doc/views/all_somitee_list.php" />
+        <option value="$PROJECT_DIR$/application/views/layouts/sidebar-nav.php" />
+        <option value="$PROJECT_DIR$/application/modules/home/controllers/home.php" />
+        <option value="$PROJECT_DIR$/application/modules/somitee/models/somitee_model.php" />
+        <option value="$PROJECT_DIR$/application/modules/home/views/somitee_re_registration.php" />
+        <option value="$PROJECT_DIR$/application/modules/services/models/services_model.php" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/modules/services/views/somitee_list_detail_view.php" />
+        <option value="$PROJECT_DIR$/application/modules/services/views/somitee_list_detail_view_2.php" />
+        <option value="$PROJECT_DIR$/application/modules/doc/controllers/doc.php" />
+        <option value="$PROJECT_DIR$/application/modules/services/views/index.php" />
+        <option value="$PROJECT_DIR$/application/modules/services/controllers/services.php" />
+        <option value="$PROJECT_DIR$/application/modules/services/views/all_somitee_list.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="third_party" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="doc" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ors" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="application" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ors\application\modules\services\views" />
+      <recent name="C:\xampp\htdocs\ors\application\modules\uco\views" />
+      <recent name="C:\xampp\htdocs\ors\application\modules\dco\views" />
+      <recent name="C:\xampp\htdocs\ors\application\modules\doc\views" />
+      <recent name="C:\xampp\htdocs\ors\application\modules\home\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ors\application\modules\home\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff51c730-9e0a-4344-adff-562bec10ee3a" name="Default" comment="" />
+      <created>1500449563806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1500449563806</updated>
+      <workItem from="1500449571723" duration="377000" />
+      <workItem from="1500454676134" duration="766000" />
+      <workItem from="1500524772782" duration="35000" />
+      <workItem from="1500525489189" duration="15590000" />
+      <workItem from="1500788150799" duration="1304000" />
+      <workItem from="1500877430458" duration="19000" />
+      <workItem from="1500888563488" duration="89000" />
+      <workItem from="1501397626868" duration="7661000" />
+      <workItem from="1501415498652" duration="2411000" />
+      <workItem from="1501479530335" duration="4394000" />
+      <workItem from="1501495616406" duration="4067000" />
+      <workItem from="1501581381531" duration="6823000" />
+      <workItem from="1501652151383" duration="9148000" />
+      <workItem from="1501670452550" duration="4679000" />
+      <workItem from="1501735180200" duration="6679000" />
+      <workItem from="1501756600125" duration="2578000" />
+      <workItem from="1501993773782" duration="4245000" />
+      <workItem from="1502007389943" duration="69000" />
+      <workItem from="1502091194592" duration="9153000" />
+      <workItem from="1502170008790" duration="7044000" />
+      <workItem from="1502180931093" duration="10419000" />
+      <workItem from="1502255217263" duration="26155000" />
+      <workItem from="1502345078562" duration="32000" />
+      <workItem from="1502861843617" duration="5045000" />
+      <workItem from="1502867155843" duration="11761000" />
+      <workItem from="1502947717750" duration="10248000" />
+      <workItem from="1502960955154" duration="7440000" />
+      <workItem from="1503374870414" duration="1430000" />
+      <workItem from="1503383758509" duration="9383000" />
+      <workItem from="1503398289583" duration="2360000" />
+      <workItem from="1503471506307" duration="6805000" />
+      <workItem from="1503480614389" duration="8726000" />
+      <workItem from="1503557425025" duration="422000" />
+      <workItem from="1503573070097" duration="3663000" />
+      <workItem from="1503805385434" duration="768000" />
+      <workItem from="1503812928642" duration="3958000" />
+      <workItem from="1503817448065" duration="8172000" />
+      <workItem from="1503905777818" duration="1371000" />
+      <workItem from="1503907233683" duration="2105000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="207394000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1370" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22304283" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/home/views/somitee_re_registration.php</url>
+          <line>1259</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/doc/controllers/doc.php</url>
+          <line>415</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/services/controllers/services.php</url>
+          <line>34</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/services/models/services_model.php</url>
+          <line>170</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/services/models/services_model.php</url>
+          <line>314</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/services/models/services_model.php</url>
+          <line>404</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/modules/services/controllers/services.php</url>
+          <line>385</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/modules/doc/views/dco_download_user_info2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3410">
+          <caret line="203" column="9" selection-start-line="203" selection-start-column="9" selection-end-line="203" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/dco/views/dco_download_user_info2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/uco/views/uco_download_user_info2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/uco/controllers/uco.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/somitee/views/somitee_info_edit_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="319" column="40" selection-start-line="319" selection-start-column="19" selection-end-line="319" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/somitee/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="627" column="35" selection-start-line="627" selection-start-column="28" selection-end-line="627" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/somitee/views/somitee_registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2695">
+          <caret line="437" column="11" selection-start-line="437" selection-start-column="11" selection-end-line="437" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/layouts_uco_dco/secondary-nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3982">
+          <caret line="181" column="56" selection-start-line="181" selection-start-column="56" selection-end-line="181" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/layouts_uco_dco/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/home/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/home/views/pre-registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/layouts_uco_dco/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/dco/models/dco_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5962">
+          <caret line="271" column="51" selection-start-line="271" selection-start-column="51" selection-end-line="271" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../template/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-649">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/git/rakib-chowdhury.github.io/index.html" />
+    <entry file="file://$PROJECT_DIR$/../template/application/modules/home/views/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="81" column="35" selection-start-line="0" selection-start-column="0" selection-end-line="470" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/home/views/show_certificate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3927">
+          <caret line="75" column="16" selection-start-line="75" selection-start-column="16" selection-end-line="75" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/services/views/all_sms_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/services/views/somitee_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-870">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/services/views/view_somitee_info - Copy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/services/views/employee_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/services/views/notice_all.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="74" column="81" selection-start-line="74" selection-start-column="75" selection-end-line="74" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/services/views/sms_api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/dco/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="33" column="58" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/layouts/sidebar-nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="188" column="54" selection-start-line="188" selection-start-column="54" selection-end-line="188" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/login_admin/controllers/login_admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1288">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/home/views/registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/home/controllers/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1980">
+          <caret line="464" column="54" selection-start-line="464" selection-start-column="54" selection-end-line="464" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/home/views/somitee_re_registration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/somitee/models/somitee_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="509">
+          <caret line="553" column="33" selection-start-line="553" selection-start-column="33" selection-end-line="553" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/dco/views/see_somitee_detail_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="219" column="26" selection-start-line="0" selection-start-column="0" selection-end-line="1344" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/doc/views/all_somitee_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/dco/controllers/dco.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1212">
+          <caret line="225" column="39" selection-start-line="225" selection-start-column="20" selection-end-line="225" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/services/models/services_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="482" column="5" selection-start-line="482" selection-start-column="5" selection-end-line="482" selection-end-column="5" />
+          <folding>
+            <element signature="n#update_lastUpdate#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_member#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sms_data#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_sms_info#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sodosso_area#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_user_info#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_somitee_count#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_somitee_lists#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#getDco#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#getUco#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_somitee_list_tab1#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_somitee_list_tab2#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_somitee_list_tab3#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_somitee_list_tab4#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_somitee_list_tab5#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_division_somitee_list#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_division_somitee_list#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_category#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sub_category#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_somitee_list#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_sms_detail#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_specific_notice#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_division#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_district#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_upazilla#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_dist#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_upz#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_emp_info#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_emp_info_all#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_somitee_list_by_div#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_somitee_list#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_division_somitee_detail#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#get_designation#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#insert_ret#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#getAllRecords#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_sms_api#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_resend_data#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_designation#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_login#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_somitee_status#0;n#Services_model#0;n#!!top" expanded="false" />
+            <element signature="n#update_send_sms#0;n#Services_model#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="53" column="31" selection-start-line="53" selection-start-column="31" selection-end-line="53" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/doc/views/somitee_list_detail_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="659" column="35" selection-start-line="659" selection-start-column="28" selection-end-line="659" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/layouts/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/layouts/secondary-nav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1474">
+          <caret line="67" column="82" selection-start-line="67" selection-start-column="82" selection-end-line="67" selection-end-column="82" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/services/views/somitee_list_detail_view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="109" selection-start-line="11" selection-start-column="109" selection-end-line="11" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/services/views/somitee_list_detail_view_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="109" selection-start-line="11" selection-start-column="109" selection-end-line="11" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/doc/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="980" column="45" selection-start-line="820" selection-start-column="20" selection-end-line="980" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/services/views/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7898">
+          <caret line="359" column="71" selection-start-line="359" selection-start-column="68" selection-end-line="359" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/services/controllers/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6534">
+          <caret line="721" column="40" selection-start-line="721" selection-start-column="40" selection-end-line="721" selection-end-column="40" />
+          <folding>
+            <element signature="n#check_somitee#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#somitee_list_by_div#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#all_notice#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#insert_notice#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#update_notice_status#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#view_notice_detail#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#update_notice_detail#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#encryptIt#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#decryptIt#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#register_employee#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#employee_registration_form#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#employee_registration_form_post#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#employee_list#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#view_employee#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#sms_list#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#employee_designation_change#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#employee_transfer#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#change_designation#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#somitee_list#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#view_somitee#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#get_dist#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#get_upz#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#sms_api#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#sms_api_change#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#sms_buy#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#sms_api_add#0;n#Services#0;n#!!top" expanded="false" />
+            <element signature="n#dco_download_user_info#0;n#Services#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/services/views/all_somitee_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="52" column="115" selection-start-line="52" selection-start-column="115" selection-end-line="52" selection-end-column="115" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-308">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2087">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/hooks.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/M_pdf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/doc/models/doc_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5214">
+          <caret line="273" column="0" selection-start-line="273" selection-start-column="0" selection-end-line="273" selection-end-column="0" />
+          <folding>
+            <marker date="1503854998405" expanded="true" signature="947:1079" placeholder="select count... somitee_info" />
+            <marker date="1503854998405" expanded="true" signature="1242:1368" placeholder="select count... somitee_info" />
+            <marker date="1503854998405" expanded="true" signature="1530:1678" placeholder="select count... somitee_info" />
+            <marker date="1503854998405" expanded="true" signature="1826:1941" placeholder="select * fro... user_registration" />
+            <marker date="1503854998405" expanded="true" signature="1877:1931" placeholder="select user_... somitee_info" />
+            <marker date="1503854998405" expanded="true" signature="2079:2131" placeholder="select * fro... admin_registration" />
+            <marker date="1503854998405" expanded="true" signature="2831:3423" placeholder="SELECT count... somitee_info" />
+            <marker date="1503854998405" expanded="true" signature="4282:4678" placeholder="SELECT count... somitee_info" />
+            <marker date="1503854998405" expanded="true" signature="4835:5253" placeholder="SELECT count... somitee_info" />
+            <marker date="1503854998405" expanded="true" signature="5408:5611" placeholder="select * fro... admin_registration" />
+            <marker date="1503854998405" expanded="true" signature="7869:7990" placeholder="select * fro... user_registration" />
+            <marker date="1503854998405" expanded="true" signature="7920:7974" placeholder="select user_... somitee_info" />
+            <marker date="1503854998405" expanded="true" signature="22347:23039" placeholder="select * fro... admin_registration" />
+            <marker date="1503854998405" expanded="true" signature="24159:24283" placeholder="SELECT * FRO... admin_registration" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/doc/controllers/doc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="271" column="53" selection-start-line="271" selection-start-column="53" selection-end-line="271" selection-end-column="53" />
+          <folding>
+            <element signature="n#report#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#upz_block#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#leader_info#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#chng_upz_status#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#chngLoginStatus#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#get_complain_info#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#somitee_list_detail#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#get_all_admin_info#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#check_nid#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#check_somitee#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#somitee_list_by_div#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#all_notice#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#insert_notice#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#update_notice_status#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#view_notice_detail#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#update_notice_detail#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#encryptIt#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#decryptIt#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#register_employee#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#employee_registration_form#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#edit_admin#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#employee_registration_form_post#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#employee_list#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#get_admin_info#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#view_employee#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#change_password#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#employee_designation_change#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#employee_transfer#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#change_designation#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#somitee_list#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#view_somitee#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#get_dist#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#get_upz#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#sms_api#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#sms_api_change#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#sms_buy#0;n#Doc#0;n#!!top" expanded="false" />
+            <element signature="n#sms_api_add#0;n#Doc#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

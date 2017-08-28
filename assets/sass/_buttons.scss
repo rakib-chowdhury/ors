@@ -1,0 +1,130 @@
+@import 'mixins';
+@import 'settings';
+@import 'animation';
+
+.btn-primary,
+.btn-success,
+.btn-warning,
+.btn-danger {
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+	-webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+	@include transition(all, .4s, ease-in-out);
+	&:hover {
+		box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18),0 4px 15px 0 rgba(0,0,0,0.15);
+		-webkit-box-shadow: 0 5px 11px 0 rgba(0,0,0,0.18),0 4px 15px 0 rgba(0,0,0,0.15);
+	}
+}
+
+.gnt-actn-btn {
+	display: inline-block;
+	min-width: 100px;
+	text-align: center;
+	font-size: 16px;
+	padding: 10px 5px 7px 5px;
+	position: relative;
+	@include border-rad(2px, 2px, 2px, 2px);
+	@include transition(all, .3s, ease-in-out);
+	&:hover {
+		text-decoration: none;
+	}
+	.glyphicon {
+		font-size: 36px;
+		display: block;
+		margin-bottom: 5px;
+	}
+
+	.badge1 {
+		position: absolute;
+		top: -18px;
+		right: 2px;
+		font-size: 18px;
+		padding: 5px;
+		width: 36px;
+		height: 36px;
+		border: 1px solid $side-menu-item-hover-bg;
+		background-color: #fff;
+		color: #333;
+		border-radius: 50%;
+		transition: all .4s;
+		-webkit-animation: mymove 1s infinite; /* Chrome, Safari, Opera */
+    	animation: mymove 1s infinite;
+	}
+	.badge2 {
+		position: absolute;
+		top: -18px;
+		right: 42px;
+		font-size: 18px;
+		padding: 5px;
+		width: 36px;
+		height: 36px;
+		border: 1px solid $side-menu-item-hover-bg;
+		background-color: #fff;
+		color: #333;
+		border-radius: 50%;
+	}
+}
+
+.gnt-btn {
+	@include border-rad(2px,2px,2px,2px);
+}
+
+.btn-primary {
+	border-bottom: 3px solid #337ab7;
+}
+.btn-success {
+	border-bottom: 3px solid #5cb85c;
+}
+.btn-danger {
+	border-bottom: 3px solid #d9534f;
+}
+.btn-warning {
+	border-bottom: 3px solid #f0ad4e;
+}
+
+.btn-purple {
+	background-color: #9C27B0;
+	border-bottom: 3px solid #9C27B0;
+	color: #fff;
+
+	&:hover {
+		background-color: darken(#9C27B0, 5%);
+		border-color: darken(#9C27B0, 15%);
+		color: #fff;
+	}
+}
+
+.btn-brown {
+	background-color: #795548;
+	border-bottom: 3px solid #795548;
+	color: #fff;
+
+	&:hover {
+		background-color: darken(#795548, 5%);
+		border-color: darken(#795548, 15%);
+		color: #fff;
+	}
+}
+
+.btn-orange {
+	background-color: $btn-orange;
+	border-bottom: 3px solid $btn-orange;
+	color: #fff;
+
+	&:hover {
+		background-color: darken($btn-orange, 5%);
+		border-color: darken($btn-orange, 15%);
+		color: #fff;
+	}
+}
+
+.btn-pink {
+	background-color: $btn-pink;
+	border-bottom: 3px solid $btn-pink;
+	color: #fff;
+
+	&:hover {
+		background-color: darken($btn-pink, 5%);
+		border-color: darken($btn-pink, 15%);
+		color: #fff;
+	}
+}

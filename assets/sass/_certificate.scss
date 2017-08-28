@@ -1,0 +1,32 @@
+.certificate .org-name-add {
+	position: relative;
+	&::after {
+		content: '';
+		width: 100%;
+		display: block;
+		height: 16px;
+		border-top: 1px dotted #333;
+		position: absolute;
+		top:0;
+		right: 0;
+	}
+}
+
+.certificate {
+	.certificate-heading {
+		margin-bottom: 32px;
+	}
+	margin-bottom: 32px;
+	p {
+		font-size: 18px;
+	}
+	.body {
+		line-height: 36px;
+	}
+
+	.num-border span {
+		border: 1px solid #ddd;
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+}

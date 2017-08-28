@@ -1,0 +1,27 @@
+@import 'settings';
+
+.dataTables_length {
+	select {
+		padding: 0;
+		background-color: $primary-color;
+		border-radius: 4px;
+		color: #fff;
+	}
+}
+.dataTables_filter {
+	label {
+		float: right;
+	}
+	input[type="search"] {
+		margin-left: 8px;
+		padding: 0 8px;
+		border: 1px solid $primary-color;
+		border-radius: 4px;
+	}
+}
+
+#registered-org-mem-info {
+	.form-control, .form-group .form-control {
+		background-image: none;
+	}
+}

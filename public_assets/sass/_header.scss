@@ -1,0 +1,34 @@
+header {
+	height: 130px;
+}
+.logo {
+	width: 256px;
+	height: 68px;
+	display: block;
+	padding: 32px 5px;
+	
+	@media(max-width: 492px) {
+		width: 200px;
+		height: 53px;
+		padding-top: 55px;
+		padding-bottom: 15px;
+		img {
+			width: 200px;
+			height: auto;
+		}
+	}
+}
+.navbar {
+	min-height: 0;
+
+	.navbar-nav > li > a {
+		padding: 10px 15px;
+	}
+}
+
+.navbar-collapse {
+	@media(min-width: 768px) {
+		padding-left: 0;
+		padding-right: 0;
+	}
+}

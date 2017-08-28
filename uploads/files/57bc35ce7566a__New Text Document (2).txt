@@ -1,0 +1,18 @@
+01953919562 : CGF57B
+01953919561 : CGDWqX
+01953919560 : CGN5it
+01953919564 : CGseQa
+
+
+
+
+
+
+
+
+
+$files = array('file_name'=>$this->input->post('file_name'),'file_path'=>$this->input->post('pro_pic_path'));
+            $tmp=array('file_name'=>$this->input->post('file_name1'),'file_path' => $this->input->post('pro_pic_path1'));
+            array_push($files,$mp);
+            $tmp1=array('file_name'=> $this->input->post('file_name2'),'file_path' => $this->input->post('pro_pic_path2'));
+            array_push($files,$mp1);

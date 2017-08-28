@@ -1,0 +1,16 @@
+.download-form {
+	.download-thumbnail {
+		height: 120px;
+		overflow: hidden;
+
+		img {
+			transition: opacity .1s;
+		}
+	}
+
+	&:hover {
+		.download-thumbnail img {
+			opacity: .4;
+		}
+	}
+}

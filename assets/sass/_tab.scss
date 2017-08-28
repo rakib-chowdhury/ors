@@ -1,0 +1,24 @@
+@import 'settings';
+.nav-tabs {
+	background: $tab-bg;
+	border-bottom: 2px solid $tab-bg;
+	
+	&>li>a {
+		color: #333 !important;
+		&:hover{
+			color: $primary-color !important;
+		}
+		&:active, &:focus {
+			color: $primary-color !important;
+		}
+	}
+	.active {
+		background-color: rgba(0,150,136, .2);
+		border-bottom: 2px solid $primary-color;
+	}
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+	background-color: transparent;
+	border: 0;
+}

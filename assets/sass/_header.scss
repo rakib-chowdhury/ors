@@ -1,0 +1,27 @@
+header {
+	//background-color: #1ab394;
+	background: url('../img/header-banner.jpg') center center no-repeat;
+	height: 150px;
+	//background-size: cover;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.26);
+background-size: 100% 100% !important;
+	
+	.logo {
+		height: 68px;
+		width: 260px;
+		display: block;
+		
+		padding: 38px 0 38px 25px;
+	}
+
+	.msg {
+		h3 {
+			margin: 35px 0 0 0;
+			color: #fff;
+		}
+		h2 {
+			color: #fff;
+			margin: 0;
+		}
+	}
+}

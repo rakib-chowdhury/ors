@@ -1,0 +1,36 @@
+h2.instruction-section-title {
+	margin-bottom: 30px;
+}
+
+.instruction {
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		margin-top: 0;
+	}
+}
+.gnt-ins-icon {
+	width: 115px;
+	height: 115px;
+	background-color: #efefef;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 115px;
+	display: block;
+
+	img {
+		width: 48px;
+		height: 48px;
+	}
+}
+
+.panel.instruction {
+	padding: 30px;
+	transition: box-shadow .4s;
+	&:hover {
+		box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19) !important;
+	}
+}

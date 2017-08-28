@@ -1,0 +1,19 @@
+home_page : http://192.185.4.83/~coop/registration
+
+karjaloy address: 
+   div=Dhaka 
+   dist=Dhaka
+   upz=tetulia
+
+
+doc_page : http://192.185.4.83/~coop/registration/index.php/login_admin
+username:22222222222222222 password:123456
+
+
+
+dco_page : http://192.185.4.83/~coop/registration/index.php/login_admin
+username: 99999999999999991 password:123456
+
+
+uco_page : http://192.185.4.83/~coop/registration/index.php/login_admin
+username: 12121212121212121 password:123456

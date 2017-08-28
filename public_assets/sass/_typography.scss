@@ -1,0 +1,25 @@
+@import 'settings';
+@font-face {
+	font-family: 'Kalpurush';
+	src: url('../fonts/Kalpurush.eot?#iefix') format('embedded-opentype'),  
+		url('../fonts/Kalpurush.woff') format('woff'), 
+		url('../fonts/Kalpurush.ttf')  format('truetype'), 
+		url('../fonts/Kalpurush.svg#Kalpurush') format('svg');
+
+	font-weight: normal;
+	font-style: normal;
+}
+
+body {
+	font-family: $body-font-family;
+	font-size: $body-font-size;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: $body-font-family;
+}

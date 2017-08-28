@@ -1,0 +1,40 @@
+@import 'mixins';
+@import 'settings';
+.slide-out-div {
+	background: $slide-out-div-bg;
+	opacity: .5;
+	width: 340px;
+	padding: 0 15px 10px 15px;
+	@include transition(opacity, .3s, ease-in-out);
+	&:hover {
+		opacity: 1;
+	}
+	.content {
+		height: 300px;
+		overflow-y: scroll;
+		&::-webkit-scrollbar {
+		    width: .8em;
+		}
+		 
+		&::-webkit-scrollbar-track {
+		    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+		}
+		 
+		&::-webkit-scrollbar-thumb {
+		  background-color: $side-menu-item-hover-bg;
+		  outline: 1px solid slategrey;
+		}
+	}
+	ul li {
+		margin-bottom: 15px;
+		padding: 10px;
+		border-radius: 5px;
+		background: darken($slide-out-div-bg, 10%);
+		a {
+			color: #444;
+			&:hover {
+				color: darken($side-menu-item-hover-bg, 15%);
+			}
+		}
+	}
+}

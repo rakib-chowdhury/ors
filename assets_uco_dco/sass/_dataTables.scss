@@ -1,0 +1,35 @@
+@import 'settings';
+.dataTables_length select{
+	background-color: $primary-color;
+	color: #fff;
+}
+
+.dataTables_wrapper input[type="search"] {
+	border-color: $primary-color;
+}
+
+.dataTables_paginate .paginate_button:hover {
+	background: none !important;
+	border-color: none !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+	border: 1px solid transparent;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+	padding: 0;
+}
+
+.pagination>.active>a, .pagination>.active>a:focus, .pagination>.active>a:hover, .pagination>.active>span, .pagination>.active>span:focus, .pagination>.active>span:hover {
+	background-color: $primary-color;
+	border-color: $primary-color;
+}
+
+table.dataTable thead th, table.dataTable thead td {
+	border-color: $primary-color;
+}
+
+table.dataTable.no-footer {
+	border-bottom: 1px solid #ddd;
+}

@@ -1,0 +1,133 @@
+@import 'animation';
+
+.home-nav {
+	.dropdown-menu {
+		left: none !important;
+		right: 0;
+		left: -100px;
+	}
+	.home-nav-btn {
+		margin-top: 15px;
+		li {
+			margin-bottom: 15px;
+		}
+	}
+}
+
+.welcome {
+	margin-bottom: 48px;
+	display: table;
+	width: 100%;
+	height: calc(100vh - 226px);
+	text-align: center;
+	.welcome-msg {
+		display: table-cell;
+		//vertical-align: middle;
+		
+		h3 {
+			margin-bottom: 48px;
+		}
+
+		ul li {
+			padding-bottom: 15px;
+		}
+		&>ul {
+			margin-bottom: 24px;
+		}
+	}
+
+}
+
+.sms-counter {
+	background-color: #E0F7FA;
+}
+
+.profile {
+	background-color: #E8F5E9;
+}
+
+
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+
+
+@-webkit-keyframes fadeInUp {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+.fadeInUp {
+  -webkit-animation-name: fadeInUp;
+  animation-name: fadeInUp;
+}
+
+@-webkit-keyframes fadeInUpBig {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 2000px, 0);
+    transform: translate3d(0, 2000px, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+@keyframes fadeInUpBig {
+  from {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 2000px, 0);
+    transform: translate3d(0, 2000px, 0);
+  }
+
+  to {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+
+.fadeInUpBig {
+  -webkit-animation-name: fadeInUpBig;
+  animation-name: fadeInUpBig;
+}
+
+@-webkit-keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}
